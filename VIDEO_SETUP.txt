@@ -1,0 +1,11 @@
+VIDEO SETUP
+
+1. Export your CapCut video as MP4.
+2. Rename the file exactly:
+   birthday-video.mp4
+3. Put it inside this folder:
+   assets/birthday-video.mp4
+4. Open index.html with Live Server or upload the whole project to GitHub Pages.
+5. Open the Cake section and click the cake image.
+
+The site is already configured to play this local file. You do not need to upload the video here or to Google Drive.
