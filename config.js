@@ -128,7 +128,16 @@ const CONFIG = {
   mesh 7abb agib syrt ay haga 2dyma fe yom momyz zy da bs lazm afkr nfsi fe kol monsba ani a2olk 
   ani b7bk awi awi awi w an rbna ysa3dni as3dk w akon 2d ms2olya w akon ragl w snad liki f3ln 
   w zy ma b2olk dyman lw a2dr agblk el nfsk fe mn 8ir ma t2oly hykon ben 2edk asln
-  rbna y5liki lya ya ro7i w kol sana w 7yaty mnwra biki w l2a5r el 3omr sawa .`,
+  rbna y5liki lya ya ro7i w kol sana w 7yaty mnwra biki w l2a5r el 3omr sawa w dyman f5or biki awi
+  w anti fe 3yoni ashtr bnota fe donya w el 7amdola baba yso3 astgab l tlbtk w get 7lwan 
+  w ana 3omri ma kont h3rf a3dy ftrty fe bni swaif mn8irk wala mn8ir d3mk lya w el hamdola
+  rbna by7bni ano adani bnt gmila w kol sfat el 7lwa fyha ana f5or biki gdan ya doctor w anti 
+  htb2i ashtr doctor fe dnya w hfdl f5or w mtshrf biki l7d ma amot w 3ayz a2olk 72k 3lya fe ayam 
+  kter 3dt w ana kont mt8ot fyha w kont bdy2k w anti akid mtsthlesh mni 8ir a7s haga a2dr a3mlha 
+  w kman 3ayz a2olk mt5afesh wala ttwtry mn ay haga fe el ayam el gya kolo hy3di 7lw w ht3rfy
+  tzkry w tnbsty w t3mly group 7lw ndyf w mo7trm zyk ya doctora.....w fe el 2a5er ya rb el haga 
+  el bsyta de t3gbk w ttbsty byha ana 7awlt a3ml haga w awel mara a3mlha fa akid kan fe a7sn 
+  bs isa ht3lmo w a3mlk a7sn haga....b7bk ya btota .`,
   personalMessageSignature: "— Tito",  // signed at the end of the letter
 
   /* ------------------------------------------------------------
