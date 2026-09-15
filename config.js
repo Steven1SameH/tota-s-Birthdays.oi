@@ -187,7 +187,8 @@ const CONFIG = {
 
   /* Google Drive video opened when the cake image is tapped.
      Replace this with the video's share link after uploading it. */
-  birthdayVideoUrl: "assets/birthday-video.mp4",
+ birthdayVideoUrl: "https://drive.google.com/file/d/1yUxx1ACAsSujdN6R0hOqTFSTENu0cLD_/view?usp=sharing",
+",
 
   /* ------------------------------------------------------------
      SOUND EFFECTS  —  short sounds (under 2s each) that play at
